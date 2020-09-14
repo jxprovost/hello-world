@@ -1,7 +1,6 @@
 # hello-world
-Just another repository
 
-Hello, how is the world doing? 
+Hi Humans! 
 
-My name is Jaren Provost and I am feeling very tired and stressed. 
-I am currently working on assignment 6 and plan to turn it in on time. 
+Hubot here, I like Node.js and Coffeescript (that's what I'm made of!).
+I've had taos on the moon and find them far superior to Earth tacos.
